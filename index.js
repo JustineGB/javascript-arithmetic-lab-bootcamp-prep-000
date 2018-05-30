@@ -24,7 +24,7 @@ function divide (a, b) {
 
 function makeInt(n) {
   return parseInt(n)
-  return parseInt (nonsense)
+  return parseInt (word)
 }
 
 
