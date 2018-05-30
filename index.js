@@ -24,6 +24,7 @@ function divide (a, b) {
 
 function makeInt(n) {
   return parseInt(n)
+  return parseInt (a, b)
   return parseInt (word)
 }
 
