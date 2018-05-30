@@ -1,11 +1,11 @@
 function add (a, b) {
-  returns a + b
+  return a + b
 }
 
 function subtract (a, b) {
-  returns (a - b)
+  return (a - b)
 }
 
 function inc (n) {
-returns (n++)
+return (n++)
 }
