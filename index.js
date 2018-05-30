@@ -5,4 +5,3 @@ function add () {
 function subtract () {
   returns (x - y);
 }
-
