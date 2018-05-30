@@ -3,9 +3,9 @@ function add (a, b) {
 }
 
 function subtract (a, b) {
-  returns (a - b);
+  returns (a - b)
 }
 
 function inc (n) {
-returns (n++);
+returns (n++)
 }
