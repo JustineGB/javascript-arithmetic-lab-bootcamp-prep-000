@@ -24,5 +24,5 @@ function divide (a, b) {
 
 function preserveDecimal(n) {
   return parseFloat(n)
-  return parseFloat (n, a)
+  return parseFloat (a, b)
 }
