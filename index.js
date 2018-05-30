@@ -7,5 +7,5 @@ function subtract (a, b) {
 }
 
 function inc (n) {
-
+returns (n++);
 }
