@@ -23,6 +23,6 @@ function divide (a, b) {
 
 
 function preserveDecimal(n) {
-  return parseFloat(a)
-  return parseFloat (a, b)
+  return parseFloat(n)
+  return parseFloat (n, a)
 }
